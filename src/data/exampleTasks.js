@@ -6,7 +6,7 @@ const taskData = [
     },
     {
         id: 2,
-        titile: "Best coding practices",
+        title: "Best coding practices",
         body: "Learn more about DSA and design patterns."
     }
 ];
