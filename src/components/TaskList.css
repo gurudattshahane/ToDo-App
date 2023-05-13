@@ -1,0 +1,21 @@
+.task-list-container{
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #D5CCFF;
+    max-width: 700px;
+    text-align: left;
+    padding: 15px;
+}
+.task-list__heading{
+    color: #2B1887;
+}
+.task-list{
+    margin-top: 20px;
+}
+.task{
+    background-color: white;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 15px;
+}
