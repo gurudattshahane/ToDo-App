@@ -9,8 +9,8 @@ export default function TaskList(){
             <div className="task-list">
                 {/* Example task */}
                 <div className="task">
-                    <h3>Title</h3>
-                    <pre>Description</pre>
+                    <h3 className='task-title'>Title</h3>
+                    <pre className='task-body'>Description</pre>
                 </div>
             </div>
         </div>    
